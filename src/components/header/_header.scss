@@ -1,0 +1,57 @@
+@import "src/scss/_colors.scss", "src/scss/_mixins.scss";
+
+header {
+  border-bottom: 1px solid $light-gray;
+
+  .content-wrapper {
+    max-width: 1080px;
+    margin: 0 auto;
+  }
+
+  .content {
+    @include flex($justify-content: space-between);
+    padding: 15px 30px;
+
+    .logo {
+      img {
+        height: 55px;
+      }
+    }
+
+    .menu {
+      @include flex;
+      font-size: 16px;
+      font-weight: 500;
+
+      a {
+        color: black;
+        padding: 0 0 2px 0;
+      }
+
+      .active {
+        border-bottom: 2px solid;
+      }
+    }
+
+    .login, .logout {
+      @include flex($justify-content: flex-end);
+    }
+
+    .login {
+      a {
+        @include flex;
+        padding: 6px 18px;
+        border: 1px solid $primary;
+        border-radius: 4px;
+        font-weight: bold;
+        transition: all .2s;
+        color: $primary;
+        width: fit-content !important;
+
+        &:hover {
+          background-color: lighten($light-gray, 8%);
+        }
+      }
+    }
+  }
+}
