@@ -25,3 +25,5 @@ yarn-error.log*
 
 # Pycharm
 .idea
+
+src/config.js
