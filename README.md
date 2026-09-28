@@ -120,7 +120,11 @@ flowchart LR
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulWajid768&theme=react&hide_border=true&bg_color=0d1117&color=61DAFB&line=764ABC&point=00d4aa&area=true&height=260" alt="Activity graph"/>
+<a href="https://github.com/AbdulWajid768">
+  <img src="assets/github-activity-graph.svg" alt="Contribution activity graph" width="100%"/>
+</a>
+
+<sub>Auto-refreshed daily via GitHub Actions (replaces paused Vercel activity-graph API).</sub>
 
 <br/><br/>
 
