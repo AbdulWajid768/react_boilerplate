@@ -25,8 +25,8 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulWajid768&repo=react_boilerplate&theme=react&hide_border=true&bg_color=0d1117&title_color=61DAFB&icon_color=764ABC&text_color=c9d1d9&border_radius=12" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWajid768&theme=react&hide_border=true&bg_color=0d1117&title_color=61DAFB&text_color=c9d1d9&layout=compact&border_radius=12" width="48%"/>
+<img src="https://gh-stats.work/api/pin/?username=AbdulWajid768&repo=react_boilerplate&theme=react&hide_border=true&bg_color=0d1117&title_color=61DAFB&icon_color=764ABC&text_color=c9d1d9&border_radius=12" width="48%"/>
+<img src="https://gh-stats.work/api/top-langs/?username=AbdulWajid768&theme=react&hide_border=true&bg_color=0d1117&title_color=61DAFB&text_color=c9d1d9&layout=compact&border_radius=12" width="48%"/>
 
 <br/><br/>
 
@@ -133,7 +133,7 @@ flowchart LR
 [![GitHub](https://img.shields.io/badge/@AbdulWajid768-181717?style=flat&logo=github)](https://github.com/AbdulWajid768)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-wajid-amin/)
 
-<img src="https://komarev.com/ghpvc/?username=AbdulWajid768-react_boilerplate&label=NEURAL%20VIEWS&color=61DAFB&style=for-the-badge" alt="views"/>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AbdulWajid768/react_boilerplate&count.shadow=false&label=NEURAL%20VIEWS&color=61DAFB&labelColor=0f172a" alt="views"/>
 
 <sub>Boot the UI · Iterate at lightspeed.</sub>
 
